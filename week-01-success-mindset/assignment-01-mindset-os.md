@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that having a degree is not enough to build a successful career, even though many people around me believe that getting good marks and completing college is the main path to success. I believe real skills, practical experience, consistency, and the ability to learn continuously matter more. A person who keeps learning, builds real projects, takes risks, and learns from failure can create better opportunities than someone who only focuses on marks. For me, college provides the foundation, but what I build and how I improve outside the classroom will define my career.
+
 
 ---
 
