@@ -152,7 +152,12 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+### Answer
+
+DNS (Domain Name System) translates human-readable domain names into IP addresses that computers can understand. It allows users to access websites using names like **epicreads.com** instead of remembering an IP address.
+
+To connect **epicreads.com** to **52.172.142.222**, an **A record** should be used because an A record maps a domain name to an IPv4 address. After configuring it, users can access the website using **epicreads.com** instead of the IP address.
+
 
 ---
 
