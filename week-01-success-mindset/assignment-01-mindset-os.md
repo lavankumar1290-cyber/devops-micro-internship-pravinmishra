@@ -344,11 +344,12 @@ I will avoid unnecessary phone use and social media during focus time and comple
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4 focused sessions per week
 
 ---
 
@@ -362,7 +363,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away during focus time.
+Avoid unnecessary social media while studying.
+Study in a quiet and organized environment.
+Complete one task before starting another.
+Take short breaks when needed.
+Avoid unnecessary notifications and phone apps during DMI work.
 
 ---
 
