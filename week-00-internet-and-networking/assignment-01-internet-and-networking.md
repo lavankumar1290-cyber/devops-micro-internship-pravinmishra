@@ -275,7 +275,7 @@ This week helped me build a stronger foundation in networking and DevOps concept
 
 P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:
 
-https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html
+https://dmi.pravinmishra.com/s/lavankumar1290-cyber.html
 
 Start your DevOps journey:
 https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
