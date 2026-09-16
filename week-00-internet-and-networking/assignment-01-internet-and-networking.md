@@ -300,19 +300,17 @@ RL here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning basic networking concepts such as protocols, IP addresses, DNS, and application architecture easy with simple examples.
 
 ---
 
 ### What was difficult?
+Understanding how different networking concepts work together and setting up the required screenshots was a little difficult.
 
-Add your answer here...
-
----
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will practice more hands-on DevOps tasks and improve my understanding of networking and command-line tools.
 
 ---
 
