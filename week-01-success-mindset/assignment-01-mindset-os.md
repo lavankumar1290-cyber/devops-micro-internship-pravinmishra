@@ -154,13 +154,26 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+What My 2.0 Version Looked Like
+Hyderabad, India — 2031
+By 2031, Lavan had transformed from a BTech AIML student into a skilled AI and DevOps-focused software engineer.
+He had built and shipped multiple real-world projects, including an Online Examination Management System, AI-based applications, and automation projects. His GitHub had grown into a professional portfolio containing projects, documentation, and technical experiments.
+He had developed practical skills in Python, SQL, Git, GitHub, Linux, Docker, networking, cloud technologies, CI/CD, AI, and DevOps. He had also earned relevant certifications and published technical articles about his learning journey.
+Lavan had contributed to collaborative projects and helped other students learn technology. His experience had grown beyond academics through internships, projects, and community participation.
+The biggest achievement was that he had learned how to turn ideas into working products. He had consistently built, tested, deployed, documented, and improved his projects.
+His 2.0 version was not created overnight. It was built through consistent learning, discipline, failures, and the courage to keep improving.
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/lavankumar1290-cyber.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps
+
+
+
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505909450126548993-RnNU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
 ---
 
