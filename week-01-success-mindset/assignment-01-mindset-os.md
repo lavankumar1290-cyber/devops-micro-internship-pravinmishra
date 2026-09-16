@@ -397,7 +397,7 @@ https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505918682817101824-sbX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk  
-- Blog / Medium : 
+- Blog / Medium : https://medium.com/@dasarilavan888/week-00-of-my-devops-micro-internship-journey-266fe5282e89?sharedUserId=dasarilavan888
 
 ---
 
