@@ -56,23 +56,23 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice produces better results than studying only when motivation is high.
 
 ### Evidence from my life
 
-Add your answer here...
+I started spending regular time learning technical subjects instead of depending only on college classes or last-minute preparation. By practicing programming, SQL, AI/ML concepts, and DevOps topics consistently, I was able to understand concepts more clearly and complete practical assignments with greater confidence.
 
 ---
 
 ## Truth #2
 
 ### Truth
+Truth: Building projects exposes gaps in my knowledge faster than only studying theory.
 
-Add your answer here...
 
 ### Evidence from my life
 
-Add your answer here...
+While working on websites and academic projects, I often faced errors and problems that I could not understand immediately from theory alone. Debugging those problems forced me to research, experiment with different solutions, and understand how the concepts actually worked. Each project showed me what I knew and what I still needed to learn.
 
 ---
 
@@ -80,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Truth: Breaking a difficult goal into smaller tasks makes it easier to make measurable progress.
 
 ### Evidence from my life
 
-Add your answer here...
+When I had to learn larger technical subjects, trying to learn everything at once felt overwhelming. I started dividing the work into smaller topics and completing them step by step. This made it easier to track my progress, practice each concept, and gradually build confidence instead of trying to understand everything in one attempt.
 
 ---
 
