@@ -250,10 +250,40 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here:https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505877798276825088-SSLD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
-```text
-Add your URL here...
+Add your U🚀 Week 00 of my DevOps Micro Internship journey!
+
+I completed my Week 00 — Internet and Networking tasks and learned the fundamentals of how applications communicate over the Internet.
+
+🤖 **ChatGPT**
+Learned how networking protocols work using simple real-life examples.
+
+🌐 **Internet & Networking**
+Learned about packet switching, IP addresses, TCP/IP, and HTTP/HTTPS.
+
+🏗️ **App Architecture**
+Understood the difference between two-tier and three-tier architectures and explored frontend, backend, and database technologies.
+
+🔗 **DNS**
+Learned how DNS converts domain names into IP addresses and how an A record connects a domain to an IPv4 address.
+
+💻 **VS Code Setup**
+Set up my VS Code environment and practiced using the terminal with basic commands.
+
+This week helped me build a stronger foundation in networking and DevOps concepts. Looking forward to learning more! 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:
+
+https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html
+
+Start your DevOps journey:
+https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+Tag Pravin Mishra in your LinkedIn post, then tag Lead Co-Mentor — Anjana Muthunayake.
+
+#DMIByPravinMishra #AgenticAI #DevOps
+RL here...
 ```
 
 ---
