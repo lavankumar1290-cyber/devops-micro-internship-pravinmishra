@@ -59,8 +59,15 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
+### Task 2 — Explanation (100–150 words)
 
-Add your answer here...
+When a user wants to access the **EpicReads** website hosted in Finland, the request travels through the Internet using **packet switching**. The data is divided into small packets, which can travel through different network paths and are reassembled at the destination.
+
+Every device and server has an **IP address** that helps identify where the data should go. **TCP/IP** provides the rules for delivering packets reliably across different networks. TCP ensures the data arrives correctly, while IP handles addressing and routing.
+
+When the user's browser requests the EpicReads website, **HTTP or HTTPS** is used to communicate with the web server. HTTPS provides encrypted communication, helping protect information such as login details and payment data. Thus, packet switching, IP addresses, TCP/IP, and HTTP/HTTPS work together to allow users worldwide to access EpicReads.
+
+
 
 ---
 
