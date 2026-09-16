@@ -205,7 +205,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes
+
+What emotion did you feel?
+
+I have cut corners before, especially when I was under pressure to finish something quickly. At first, I felt relieved because I completed the task faster. But later, I felt guilt, stress, and regret because I knew I had not given my best effort. It also made me worry that someone might notice the shortcut. That experience taught me that taking shortcuts may save time temporarily, but doing things honestly and properly gives me more confidence and peace of mind.
 
 ---
 
