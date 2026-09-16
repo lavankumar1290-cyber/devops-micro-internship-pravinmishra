@@ -308,7 +308,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+YES
 
 ---
 
