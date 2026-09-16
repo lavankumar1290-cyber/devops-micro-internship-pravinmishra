@@ -376,15 +376,15 @@ Avoid unnecessary notifications and phone apps during DMI work.
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can improve my skills and achieve bigger goals when I follow a proper routine and stay consistent. Small daily efforts can create meaningful results over time.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and sometimes delaying important tasks. This can reduce my focus and productivity.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend 1 hour every day from 7:00 PM to 8:00 PM on focused learning and DMI work. During this time, I will keep my phone away and avoid social media and unnecessary distractions.
 
 ### LinkedIn Post
 
