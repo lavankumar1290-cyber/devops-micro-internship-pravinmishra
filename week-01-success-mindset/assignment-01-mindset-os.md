@@ -326,7 +326,17 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 1 hour of focused learning and DevOps practice
+Friday: Practice technical skills and revise what I learned
+Saturday: Complete DMI assignments and projects
+Sunday: Weekly review, reflection, and planning for the next week
+
+Focus Blocks:
+
+Monday–Thursday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
+
+I will avoid unnecessary phone use and social media during focus time and complete one task at a time. I will follow this routine consistently for the next 5 months.
 
 ---
 
