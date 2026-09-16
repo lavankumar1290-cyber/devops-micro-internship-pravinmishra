@@ -252,6 +252,15 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505877798276825088-SSLD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
+
+```
+
+---
+
+## LinkedIn Post Backup Copy
+
+Paste the full text of your LinkedIn post here:
+
 Add your U🚀 Week 00 of my DevOps Micro Internship journey!
 
 I completed my Week 00 — Internet and Networking tasks and learned the fundamentals of how applications communicate over the Internet.
@@ -284,15 +293,6 @@ Tag Pravin Mishra in your LinkedIn post, then tag Lead Co-Mentor — Anjana Muth
 
 #DMIByPravinMishra #AgenticAI #DevOps
 RL here...
-```
-
----
-
-## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
-Add your post content here...
 
 ---
 
