@@ -252,7 +252,6 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 :https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505877798276825088-SSLD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
-
 ```
 
 ---
