@@ -42,7 +42,8 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+<img width="3220" height="2184" alt="AdobeExpressPhotos_48756de58e58444dbf5163a2475f8146_CopyEdited" src="https://github.com/user-attachments/assets/482992d2-7c9d-4fa8-b4c7-55b67bde4561" />
+
 
 ---
 
