@@ -35,7 +35,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+<img width="3073" height="2175" alt="AdobeExpressPhotos_2a9d6964bd4640f8b3ee5c64ed91fef4_CopyEdited" src="https://github.com/user-attachments/assets/9104b383-7b6f-41ae-a67d-e9969c44c876" />
+
 
 ---
 
