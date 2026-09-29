@@ -72,7 +72,8 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+<img width="2290" height="949" alt="image" src="https://github.com/user-attachments/assets/e18757f0-c386-4a7b-b742-9f41d746bffe" />
+
 
 ---
 
