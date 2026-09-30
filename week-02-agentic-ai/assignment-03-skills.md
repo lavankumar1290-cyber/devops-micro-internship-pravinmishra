@@ -106,7 +106,7 @@ https://github.com/lavankumar1290-cyber/Ultimate-Agentic-DevOps-with-Claude-Code
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://lnkd.in/p/gha-N5bu
 ---
 
 # Completion Checklist
