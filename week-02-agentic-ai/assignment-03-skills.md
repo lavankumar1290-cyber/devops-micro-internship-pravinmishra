@@ -97,7 +97,9 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber/devops-micro-internship-pravinmishra
+
+https://github.com/lavankumar1290-cyber/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ## LinkedIn post URL
 
@@ -108,16 +110,16 @@ Paste your forked repository URL here:
 
 # Completion Checklist
 
-- [ ] `.claude/skills/` folder created with all 4 skill folders
-- [ ] All skill files placed correctly
-- [ ] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
-- [ ] `/scaffold-terraform` executed successfully
-- [ ] Terraform files generated inside `terraform/` folder
-- [ ] `terraform init` executed successfully
-- [ ] `/tf-plan` executed and output analyzed by Claude
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [✅] `.claude/skills/` folder created with all 4 skill folders
+- [✅] All skill files placed correctly
+- [✅] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
+- [✅] `/scaffold-terraform` executed successfully
+- [✅] Terraform files generated inside `terraform/` folder
+- [✅] `terraform init` executed successfully
+- [✅] `/tf-plan` executed and output analyzed by Claude
+- [✅] All required screenshots added
+- [✅] GitHub repository URL included
+- [✅] LinkedIn post URL included
 
 ---
 
