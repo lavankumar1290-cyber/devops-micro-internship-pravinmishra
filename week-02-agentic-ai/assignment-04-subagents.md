@@ -125,7 +125,8 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
+<img width="2806" height="2181" alt="Screenshot 2026-10-01 143039" src="https://github.com/user-attachments/assets/1bc3e784-fb7c-4f82-b5ae-556b4152f9bd" />
+
 
 ---
 
