@@ -55,13 +55,15 @@ The tf-writer uses inherit so it automatically uses the model configured by the 
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="2934" height="1485" alt="Screenshot 2026-10-01 141134" src="https://github.com/user-attachments/assets/4b227830-8a56-40db-857d-00c0877c5206" />
+
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="2853" height="1761" alt="Screenshot 2026-10-01 141236" src="https://github.com/user-attachments/assets/df469167-0d45-46b6-b886-7061aff600a5" />
+
 
 ---
 
