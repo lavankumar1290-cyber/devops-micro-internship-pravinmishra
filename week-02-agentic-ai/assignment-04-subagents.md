@@ -142,7 +142,9 @@ Make sure your published post includes:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber/devops-micro-internship-pravinmishra
+
+https://github.com/lavankumar1290-cyber/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
