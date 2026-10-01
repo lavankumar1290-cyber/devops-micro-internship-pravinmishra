@@ -81,23 +81,10 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+<img width="2935" height="1787" alt="Screenshot 2026-10-01 154550" src="https://github.com/user-attachments/assets/ec446abd-a922-4590-8f63-f2fa6e094f09" />
 
 ---
 
-# Task 6 — Share Your MCP Achievement
-
-## Goal
-
-Share your MCP achievement on Facebook or WhatsApp Status and provide evidence of the published post/status.
-
-### Evidence
-
-#### Screenshot 6 — Published Facebook post or WhatsApp Status showing your MCP achievement message and leaderboard progress link visible
-
-Add your screenshot here.
-
----
 
 # Submission Instructions
 
