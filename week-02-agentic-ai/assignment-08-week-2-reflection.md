@@ -78,7 +78,8 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="1775" height="2002" alt="AdobeExpressPhotos_a275b415080745fc9fdd3361bd092b8d_CopyEdited" src="https://github.com/user-attachments/assets/216a27d2-04d9-4d45-b20f-d64630fcef7b" />
+
 
 ---
 
@@ -87,14 +88,39 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+🚀 Week 2 Completed — DevOps Micro Internship with Agentic AI
+
+Week 2 was a hands-on learning experience that helped me understand how AI agents can be used in real-world DevOps workflows.
+
+During this week, I explored:
+
+🔹 Claude Code — Learned how to work with an AI development assistant through the terminal and troubleshoot installation and configuration issues.
+
+🔹 Skills & Subagents — Learned how specialized instructions and AI agents can divide tasks and support different responsibilities.
+
+🔹 Hooks & Permissions — Learned how to control AI agent actions, create safety checks, and prevent potentially dangerous commands.
+
+🔹 MCP — Explored how AI agents can connect with external tools and services.
+
+🔹 Memory — Learned how project-specific information can be stored and recalled across Claude Code sessions.
+
+One of my biggest challenges was dealing with installation, configuration, and command-line errors. Instead of giving up when something didn't work, I learned to troubleshoot step by step and understand the reason behind each error.
+
+The biggest lesson I learned this week is that working with AI is not just about asking good questions. It is also about understanding how to configure, control, secure, and integrate AI agents into development workflows.
+
+📌 Habit I'm taking forward:
+I plan to spend at least 30 minutes every day practicing one technical concept or tool and maintaining short notes about what I learn.
+
+Thankful for another week of practical learning and hands-on experience. 🚀
+
+#DevOps #AgenticAI #ClaudeCode #AISafety #MCP #AIEngineering #DevOpsInternship #LearningByDoing #DMI
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/gKDGPV9N
 
 ---
 
@@ -110,15 +136,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 
