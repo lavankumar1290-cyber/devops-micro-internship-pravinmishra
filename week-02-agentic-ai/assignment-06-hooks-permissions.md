@@ -124,7 +124,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
-![Uploading AdobeExpressPhotos_8e7848401015456989a0d1614f56167a_CopyEdited.png…]()
+<img width="2822" height="1336" alt="AdobeExpressPhotos_8e7848401015456989a0d1614f56167a_CopyEdited" src="https://github.com/user-attachments/assets/f11df27d-cc7d-4f8e-a5e6-adcfc4cf5c48" />
 
 
 ---
