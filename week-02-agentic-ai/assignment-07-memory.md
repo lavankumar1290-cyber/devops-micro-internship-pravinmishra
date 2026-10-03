@@ -74,13 +74,15 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+<img width="2485" height="1684" alt="AdobeExpressPhotos_0d5fb7e29c204922934c1608acfb5d17_CopyEdited" src="https://github.com/user-attachments/assets/cd12d4f5-1dd6-46bb-a0f6-c12dcf8bf78d" />
+
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+<img width="2453" height="1721" alt="AdobeExpressPhotos_efb41dec9fa94ee8be54f3e2b34c7c40_CopyEdited" src="https://github.com/user-attachments/assets/e09a4d9d-4247-400e-935c-65880bef3d1c" />
+
 
 ---
 
@@ -105,8 +107,9 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber/devops-micro-internship-pravinmishra
 
+https://github.com/lavankumar1290-cyber/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 # Completion Checklist
