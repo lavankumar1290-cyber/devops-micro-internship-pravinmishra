@@ -59,7 +59,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+<img width="3840" height="2280" alt="AdobeExpressPhotos_f37ecef20bba494c81b7ed4056220217_CopyEdited" src="https://github.com/user-attachments/assets/9ced811e-5cbd-4622-a70e-2a1eb09fa8a7" />
 
 ---
 
