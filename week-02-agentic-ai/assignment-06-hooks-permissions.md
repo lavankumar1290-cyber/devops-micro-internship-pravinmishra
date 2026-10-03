@@ -139,7 +139,8 @@ Share how you built safety controls that prevent an AI agent from performing des
 
 #### Screenshot 10 — Published post on X or LinkedIn showing your AI safety achievement message and leaderboard progress link visible
 
-Add your screenshot here.
+<img width="1774" height="1572" alt="AdobeExpressPhotos_a3536f3a29ad4485bf6a672add67e324_CopyEdited" src="https://github.com/user-attachments/assets/233998eb-ab12-4ae9-87bc-2915249db4ff" />
+
 
 ---
 
@@ -154,21 +155,21 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] `.claude` folder structure created correctly
-- [ ] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
-- [ ] `pre-tool-guard.sh` created with PreToolUse hook logic
-- [ ] `post-tool-logger.sh` created with PostToolUse logging logic
-- [ ] `settings.json` created with allow and deny permissions
-- [ ] `settings.json` configured to connect all three hooks:
-  - [ ] UserPromptSubmit
-  - [ ] PreToolUse
-  - [ ] PostToolUse
-- [ ] Destructive prompt test shows UserPromptSubmit blocked the request
-- [ ] Terraform destroy command test shows PreToolUse intercepted the command
-- [ ] Terraform validate test shows PostToolUse created the log entry
-- [ ] AI safety achievement shared on X or LinkedIn
-- [ ] Screenshot of published post with leaderboard progress link visible
-- [ ] All required screenshots are captured
+- [✅] `.claude` folder structure created correctly
+- [✅] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
+- [✅] `pre-tool-guard.sh` created with PreToolUse hook logic
+- [✅] `post-tool-logger.sh` created with PostToolUse logging logic
+- [✅] `settings.json` created with allow and deny permissions
+- [✅] `settings.json` configured to connect all three hooks:
+  - [✅] UserPromptSubmit
+  - [✅] PreToolUse
+  - [✅] PostToolUse
+- [✅] Destructive prompt test shows UserPromptSubmit blocked the request
+- [✅] Terraform destroy command test shows PreToolUse intercepted the command
+- [✅] Terraform validate test shows PostToolUse created the log entry
+- [✅] AI safety achievement shared on X or LinkedIn
+- [✅] Screenshot of published post with leaderboard progress link visible
+- [✅] All required screenshots are captured
 
 ---
 
