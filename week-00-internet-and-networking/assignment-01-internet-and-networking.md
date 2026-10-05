@@ -250,7 +250,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-https://lnkd.in/p/dusY5xtm
+https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-share-7505877795395338240-5UGh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
 ```
 
@@ -293,7 +293,7 @@ Tag Pravin Mishra in your LinkedIn post, then tag Lead Co-Mentor — Anjana Muth
 #DMIByPravinMishra #AgenticAI #DevOps
 RL here...
 
----
+
 
 # Reflection – Week 0
 
