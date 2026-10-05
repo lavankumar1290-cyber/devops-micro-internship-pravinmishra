@@ -62,7 +62,8 @@ You can publish your blog on:
 
 Blog Link:
 
-https://medium.com/@dasarilavan888/reflection-week-2-aa3693490ad9
+
+https://medium.com/@dasarilavan888/reflection-week-2-aa3693490ad9?sharedUserId=dasarilavan888
 
 ---
 
@@ -87,7 +88,7 @@ Share your Week 2 learning publicly on LinkedIn.
 
 LinkedIn Post Content (copy-paste here):
 
-```
+
 🚀 Week 2 Completed — DevOps Micro Internship with Agentic AI
 
 Week 2 was a hands-on learning experience that helped me understand how AI agents can be used in real-world DevOps workflows.
@@ -114,7 +115,6 @@ I plan to spend at least 30 minutes every day practicing one technical concept o
 Thankful for another week of practical learning and hands-on experience. 🚀
 
 #DevOps #AgenticAI #ClaudeCode #AISafety #MCP #AIEngineering #DevOpsInternship #LearningByDoing #DMI
-```
 
 ---
 
