@@ -120,7 +120,7 @@ Thankful for another week of practical learning and hands-on experience. 🚀
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/gKDGPV9N
+https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-agenticai-claudecode-share-7512191881825677312-bd8f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
 ---
 
