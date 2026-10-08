@@ -145,13 +145,17 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+
+<img width="3657" height="280" alt="Screenshot 2026-10-08 182210" src="https://github.com/user-attachments/assets/a8fbbf99-14be-4609-81b2-5b0dcdc80dfd" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+
+<img width="3687" height="770" alt="image" src="https://github.com/user-attachments/assets/775291cf-2b22-467a-8586-44408ac4ab6b" />
+
 
 ---
 
