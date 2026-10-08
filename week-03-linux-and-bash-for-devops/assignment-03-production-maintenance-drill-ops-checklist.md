@@ -168,19 +168,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No, I did not find any recent errors in the Nginx error log. The error log was empty during my check. The Nginx journal also showed successful start and stop operations without failure messages.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that Nginx is running normally and there were no recent Nginx errors detected during the check. The service was able to start and restart successfully.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+If the access log contains entries for my curl requests, it proves that the requests reached Nginx and were processed by the web server. A successful HTTP status such as 200 indicates that Nginx successfully served the requested content.
 
 ---
 
