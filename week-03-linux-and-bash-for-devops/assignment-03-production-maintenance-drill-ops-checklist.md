@@ -27,7 +27,8 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+<img width="2397" height="890" alt="image" src="https://github.com/user-attachments/assets/fdeec8cd-641a-440f-a17d-8a2405ff87a2" />
+
 
 ---
 
