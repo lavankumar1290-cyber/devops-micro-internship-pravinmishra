@@ -194,25 +194,33 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+
+<img width="3102" height="310" alt="Screenshot 2026-10-08 182849" src="https://github.com/user-attachments/assets/9e0f1594-095e-40e0-b740-730eefac9e8b" />
+
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+
+<img width="3087" height="182" alt="Screenshot 2026-10-08 183220" src="https://github.com/user-attachments/assets/ec161513-1d51-40f1-9f00-ed9fb43b5eef" />
+
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+
+<img width="3035" height="902" alt="Screenshot 2026-10-08 183238" src="https://github.com/user-attachments/assets/9bcf7716-3ec0-4e76-95c4-12546a3ad92b" />
+
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+
+<img width="3520" height="352" alt="image" src="https://github.com/user-attachments/assets/f6a9d38f-86c6-4711-aaaf-76d216151997" />
+
 
 ---
 
