@@ -63,19 +63,6 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 ---
 
-# Task 4 — Share Your AWS Cloud Onboarding Progress
-
-## Goal
-
-Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence of the published status.
-
-### Evidence
-
-### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
-
-Add your screenshot here.
-
----
 
 # Submission Instructions
 
@@ -88,13 +75,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
-- [ ] Task 4: AWS onboarding progress shared on WhatsApp Status
-- [ ] Screenshot 2 of published WhatsApp Status captured with leaderboard progress link visible
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
+- [✅] Task 4: AWS onboarding progress shared on WhatsApp Status
+- [✅] Screenshot 2 of published WhatsApp Status captured with leaderboard progress link visible
+- [✅] All required screenshots added to repository
 
 ---
 
