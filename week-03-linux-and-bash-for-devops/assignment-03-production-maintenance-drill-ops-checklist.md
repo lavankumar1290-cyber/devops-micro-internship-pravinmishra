@@ -291,7 +291,8 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
 
-![Uploading image.png…]()
+<img width="2250" height="345" alt="image" src="https://github.com/user-attachments/assets/5f911dc1-a6fa-43b3-b7c6-23e64b93ed57" />
+
 
 
 ---
