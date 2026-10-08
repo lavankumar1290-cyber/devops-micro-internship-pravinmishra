@@ -276,7 +276,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirm that the correct version is deployed by checking the files in /var/www/html and verifying that the latest application changes are present. I also check the application in the browser to make sure the expected content, such as “Deployed by: Lavan Kumar” and the correct date, is displayed. Finally, I verify the Nginx configuration to ensure it is serving the React build correctly.
 
 ---
 
