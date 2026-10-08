@@ -276,6 +276,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
+
 I confirm that the correct version is deployed by checking the files in /var/www/html and verifying that the latest application changes are present. I also check the application in the browser to make sure the expected content, such as “Deployed by: Lavan Kumar” and the correct date, is displayed. Finally, I verify the Nginx configuration to ensure it is serving the React build correctly.
 
 ---
@@ -318,19 +319,21 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
+
 The failure was caused by removing the semicolon (;) from the try_files directive in the Nginx configuration. This created a syntax error, so nginx -t reported an unexpected }.
----
+
 
 **2. How did you fix the issue?**
 
 I added the missing semicolon (;) back to the try_files line and ran sudo nginx -t again to verify that the configuration was valid.
 
----
+
 
 **3. How can you avoid this kind of issue in real production systems?**
 
+
 In production, always test Nginx configuration using sudo nginx -t before restarting or reloading Nginx. Configuration changes should also be reviewed carefully, backed up before editing, and tested in a staging environment when possible.
----
+
 
 # Task 7 — Web Application Failure Simulation
 
