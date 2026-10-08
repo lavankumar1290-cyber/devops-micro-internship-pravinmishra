@@ -264,7 +264,9 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+
+<img width="3575" height="259" alt="image" src="https://github.com/user-attachments/assets/d82aeb1d-a2f0-404b-964e-0da3b0a7aa51" />
+
 
 ---
 
