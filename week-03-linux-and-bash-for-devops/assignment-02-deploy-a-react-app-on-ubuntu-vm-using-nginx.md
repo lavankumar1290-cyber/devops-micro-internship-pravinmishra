@@ -160,7 +160,8 @@ https://www.linkedin.com/posts/lavan-kumar-aa2724307_aws-nginx-react-share-75139
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<img width="1670" height="1870" alt="image" src="https://github.com/user-attachments/assets/c3dbdea2-f536-436e-97c8-e9a0a24a316c" />
+
 
 ---
 
