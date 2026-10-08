@@ -60,6 +60,7 @@ This proves that Nginx is listening on TCP port 80 on all IPv4 network interface
 ---
 
 **2. What proves SSH is active on port 22?**
+
 The sudo ss -tulpen output should show a TCP LISTEN entry for port 22, usually with sshd as the process.
 
 However, in the output you shared, there is no port 22 entry. So you should not claim that SSH is active on port 22 based on that screenshot.
