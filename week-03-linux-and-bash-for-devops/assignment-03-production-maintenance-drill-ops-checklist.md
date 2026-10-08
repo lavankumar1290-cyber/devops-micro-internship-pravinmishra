@@ -117,13 +117,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart, the website may become unavailable and users may not be able to access the application. I would first check the Nginx configuration and error logs, fix the problem, and then restart Nginx safely.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+My basic rollback plan is to keep a working copy of the previous application build and configuration. If a new deployment causes problems, I would restore the previous working version, test the Nginx configuration with nginx -t, and restart Nginx to bring the application back online.
 
 ---
 
