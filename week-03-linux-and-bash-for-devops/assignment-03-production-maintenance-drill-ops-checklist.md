@@ -392,31 +392,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure because it uses a public and private key pair instead of relying only on a password. The private key remains secret on the user's device, while the public key is stored on the server. It reduces the risk of password guessing, theft, and unauthorized access.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only required ports should be open to reduce the attack surface of the server. Every open port can potentially provide an entry point for attackers. Closing unnecessary ports helps prevent unauthorized access and improves server security.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+Enabling Nginx on boot ensures that the web server starts automatically whenever the server restarts. This helps the website become available without requiring someone to start Nginx manually and improves application reliability.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets, keys, or credentials publicly can allow attackers to access servers, databases, cloud accounts, and other sensitive resources. Attackers may steal data, modify applications, or create unauthorized cloud resources that result in financial losses. Credentials should be stored securely and rotated immediately if they are exposed.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Unused cloud resources can continue generating charges and may create unnecessary security risks. Stopping or terminating resources when they are no longer required helps reduce costs and limits exposure to potential attacks. Important data and configurations should be backed up before terminating resources.
 
 ---
 
