@@ -346,7 +346,8 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+<img width="3272" height="408" alt="AdobeExpressPhotos_27431e9123eb443faed871f3e0c6d411_CopyEdited" src="https://github.com/user-attachments/assets/8b7ca5cd-b349-4dcf-b8fb-ec797d2049fd" />
+
 
 ---
 
