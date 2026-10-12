@@ -364,19 +364,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the deployed index.html file was temporarily moved from the /var/www/html directory. Since Nginx could not find the main HTML file, it returned a 403 Forbidden response when I tested the application using curl.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the application by moving index.html.missing back to its original name, index.html, in the /var/www/html directory. After restoring the file, I ran curl -I http://localhost to verify the application. The server returned HTTP/1.1 200 OK, confirming that the application was working again..
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+To prevent this issue in production, I would take regular backups of important deployment files, validate the application before deployment, and use automated CI/CD pipelines to deploy changes safely. I would also implement health checks and monitoring to detect failures quickly. Additionally, I would use version control and maintain a rollback plan so that I could restore the previous working version if a deployment failed.
 
 ---
 
