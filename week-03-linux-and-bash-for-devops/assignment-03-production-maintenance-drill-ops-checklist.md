@@ -353,7 +353,8 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="3289" height="581" alt="AdobeExpressPhotos_571a0f31420d499a8f0a219f95e154b7_CopyEdited" src="https://github.com/user-attachments/assets/49f76388-4c1b-43a1-b828-5ab8f0762182" />
+
 
 ---
 
