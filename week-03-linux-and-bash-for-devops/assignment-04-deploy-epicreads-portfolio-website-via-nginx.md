@@ -71,7 +71,8 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="3129" height="620" alt="AdobeExpressPhotos_a7802de109764f7bb233164989978ccd_CopyEdited" src="https://github.com/user-attachments/assets/60c914a6-4212-4f30-98aa-2c26ffb41c53" />
+
 
 ---
 
