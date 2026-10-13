@@ -35,7 +35,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+<img width="1203" height="490" alt="AdobeExpressPhotos_49c70b9e27504fbdbf3b14166bcee6ac_CopyEdited" src="https://github.com/user-attachments/assets/aed9b7e9-5764-4a85-8a98-eeeaf42187b7" />
+
 
 ---
 
