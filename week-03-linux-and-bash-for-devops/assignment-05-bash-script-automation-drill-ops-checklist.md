@@ -439,13 +439,14 @@ The script uses variables to store user information, an array to store DevOps to
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-bashscripting-linux-share-7516177487979130881-f1dM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1774" height="1965" alt="AdobeExpressPhotos_8dec60e8f924483cbf8c3b97b5e54dc3_CopyEdited" src="https://github.com/user-attachments/assets/f43d22a5-ded5-4f84-8d49-e37047e66e45" />
+
 
 ---
 
