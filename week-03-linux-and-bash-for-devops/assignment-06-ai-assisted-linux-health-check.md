@@ -20,13 +20,14 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+<img width="1426" height="744" alt="AdobeExpressPhotos_d5e7717dca9f41169cf374b6bf1e0675_CopyEdited" src="https://github.com/user-attachments/assets/57517af6-d436-4512-b8cf-2e1fcd5e5e30" />
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+<img width="1459" height="320" alt="AdobeExpressPhotos_08eeaf93c9fe40e0b7bad57f6a6bc99f_CopyEdited" src="https://github.com/user-attachments/assets/f8a03bec-0b5f-4f59-baff-7e2753188871" />
+
 
 ---
 
@@ -36,19 +37,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The command systemctl is-active nginx displays active, which proves that the Nginx service is running.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+The command ss -ltn | grep ':80' shows whether a socket is listening on port 80, which is the default HTTP port. The command curl -I http://localhost checks whether the server responds to an HTTP request. A response such as HTTP/1.1 200 OK indicates that the request was successful.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+Capturing a healthy baseline helps us understand the normal working condition of the server before an incident occurs. We can compare the results before and after the incident to identify the problem and verify that the service has recovered successfully.
 
 ---
 
@@ -62,7 +63,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-Add your screenshot here.
+<img width="3813" height="2175" alt="AdobeExpressPhotos_a0bce68c6cfd472e89811f4841a59412_CopyEdited" src="https://github.com/user-attachments/assets/7636e772-0b95-4cfd-a58b-7c928346bfc3" />
 
 ---
 
@@ -72,19 +73,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Project-specific rules help Claude understand the purpose of the project, follow the correct workflow, and avoid unsafe operations. They ensure that Claude collects evidence and provides recommendations according to the project's requirements.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human must execute the recovery command to maintain control over the server and prevent accidental changes or service interruptions. Claude can analyze the evidence and recommend recovery steps, but the human reviews and performs the action.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule stating "If evidence is insufficient, report the uncertainty instead of guessing" prevents Claude from making unsupported diagnoses. It requires Claude to base its findings on collected evidence rather than assumptions.
 
 ---
 
