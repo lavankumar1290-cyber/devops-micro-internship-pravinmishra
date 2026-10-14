@@ -269,13 +269,14 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="2335" height="2198" alt="AdobeExpressPhotos_421a1e7afc1e49cbb5c936c33e1c71d2_CopyEdited" src="https://github.com/user-attachments/assets/e75df911-6f70-47f2-ae03-9617118875e8" />
+
 
 ---
 
-#### Screenshot 12 — `/linux-triage` output for the healthy server
+#### Screenshot 12 — `/linux-triage` output for the healthy ser
 
-Add your screenshot here.
+<img width="1977" height="2132" alt="AdobeExpressPhotos_20e0a10e61c049189b5a245e7f276656_CopyEdited" src="https://github.com/user-attachments/assets/9ea12076-4864-406b-859e-76f107cfed7e" />
 
 ---
 
@@ -285,25 +286,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+Bash is used to run Linux health-check commands, Read is used to inspect files, and Grep is used to search for specific information in files. Write is not included because the skill should only collect and analyze evidence, not modify files or system configurations. This makes the workflow safer.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+It prevents Claude from automatically invoking the skill on its own. The user must manually run /linux-triage when they want to check the server. This provides better control over when the skill runs.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash executes the Linux commands and triage script to collect actual system information, such as Nginx status, port 80, HTTP response, disk usage, and memory usage. Claude analyzes the collected evidence, identifies warnings or incidents, explains the results, and recommends next steps.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+The triage script provides actual system data instead of relying on assumptions. Claude can use this evidence to give a more accurate assessment, identify potential problems, and explain its conclusions. This makes the process more reliable and helps avoid unsupported guesses.
 
 ---
 
