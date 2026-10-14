@@ -20,13 +20,15 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+<img width="2986" height="487" alt="AdobeExpressPhotos_4afaf5223d684a3b9516de8c37254d4e_CopyEdited" src="https://github.com/user-attachments/assets/6dc2493e-cf14-4c6c-88cf-5e08ad92d34a" />
+
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+<img width="3278" height="468" alt="AdobeExpressPhotos_f6d30d327e8844d795279bd680a00c6d_CopyEdited" src="https://github.com/user-attachments/assets/aaeeb185-7dfd-4552-957c-45a8d8f1758e" />
+
 
 ---
 
@@ -36,19 +38,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash stands for Bourne Again Shell. It is a command-line interpreter used in Linux to execute commands and run scripts. It helps automate tasks such as creating files, managing directories, and running programs.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a program that allows users to interact with an operating system using commands. Bash is one specific type of shell. Other shells include Zsh, Fish, and Dash. Bash provides features such as variables, loops, conditions, and functions for writing scripts.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Checking the Bash version helps ensure that the system supports the commands and features used in a script. Different versions may support different features, so checking the version helps avoid compatibility problems and unexpected errors.
 
 ---
 
@@ -62,7 +64,8 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+<img width="1278" height="437" alt="AdobeExpressPhotos_4a58133b187d47098f23cfda1449f168_CopyEdited" src="https://github.com/user-attachments/assets/1f547542-a8d9-468d-9874-7260c41d1696" />
+
 
 ---
 
