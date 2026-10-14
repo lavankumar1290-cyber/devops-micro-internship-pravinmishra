@@ -136,25 +136,30 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+<img width="2489" height="2165" alt="AdobeExpressPhotos_9345d1cc66e343878d471898781df014_CopyEdited" src="https://github.com/user-attachments/assets/f04c4044-3700-4280-9c52-d9d80c4e0491" />
+
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+<img width="2207" height="1724" alt="AdobeExpressPhotos_a0bf42f6a5544fc7b68d702e35612569_CopyEdited" src="https://github.com/user-attachments/assets/0c38a51d-c8c7-477a-9427-2456ad6cf057" />
+
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+<img width="2180" height="1745" alt="AdobeExpressPhotos_83785cf1d8754d15ac53e8288c1403c9_CopyEdited" src="https://github.com/user-attachments/assets/33baa003-544a-4e15-9da9-bc32afb5dfa9" />
+<img width="2361" height="1839" alt="AdobeExpressPhotos_f47b585be7104484bcadf5e92eb9fea8_CopyEdited" src="https://github.com/user-attachments/assets/408657a7-1161-4291-90b9-9f022302ec55" />
+
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+<img width="1370" height="341" alt="AdobeExpressPhotos_293dd1287324488486b19cb6b76c09a4_CopyEdited" src="https://github.com/user-attachments/assets/bd6f35bb-9265-45cb-a062-559b18f1bee4" />
+
 
 ---
 
@@ -164,31 +169,43 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The CHECKS array stores the names of the five health checks: Nginx service status, HTTP port, HTTP response, disk usage, and memory usage. These names tell the script which checks it needs to perform.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each item in the CHECKS array one by one. The case statement identifies each item and calls its corresponding function to perform the health check.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Functions make the script organized, readable, and easier to maintain. Each function performs one specific check, making it easier to identify problems, test individual checks, and update the script without changing unrelated sections.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) is called command substitution. It runs a command and stores its output in a variable.
+
+For example:
+
+HOST_NAME="$(hostname)"
+
+This runs the hostname command and stores the computer's hostname in the HOST_NAME variable
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes help users and automation tools understand the result of the health checks.
+
+Exit code 0 — HEALTHY: All checks passed without warnings.
+Exit code 1 — WARN: One or more warnings were detected.
+Exit code 2 — FAIL: One or more incidents were detected.
+
+These codes make it easier to identify the result and decide whether further investigation is needed.
 
 ---
 
