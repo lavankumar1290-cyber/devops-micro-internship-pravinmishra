@@ -71,13 +71,14 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+<img width="1458" height="336" alt="AdobeExpressPhotos_6f0e55dca6014a3a974840b8c871fd0b_CopyEdited" src="https://github.com/user-attachments/assets/86e6d323-76ed-43e5-9087-ca1057852172" />
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+<img width="1422" height="311" alt="AdobeExpressPhotos_516fe9298cb54532b35088d5dbde2b74_CopyEdited" src="https://github.com/user-attachments/assets/7a05dbe1-c065-4e36-9d86-3c6029560661" />
+
 
 ---
 
@@ -87,19 +88,19 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+The #!/bin/bash line tells the operating system to use the Bash shell to execute the script. It is called a shebang. It helps the system know which interpreter should run the script.
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+We use chmod +x to give a file execute permission. This allows us to run the script directly from the terminal using ./script.sh.
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+When we use ./script.sh, the script must have execute permission, and the system uses the interpreter specified in the shebang. When we use bash script.sh, Bash executes the script directly, so execute permission is not required. Both methods can run the same script, but they invoke it differently.
 
 ---
 
