@@ -384,19 +384,22 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+<img width="1831" height="2268" alt="AdobeExpressPhotos_53e4e26dda444d8d876a870b1ef4e9d4_CopyEdited" src="https://github.com/user-attachments/assets/3b524aa1-9ce1-4ae9-8a02-16e9725ac627" />
+
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+<img width="1327" height="528" alt="AdobeExpressPhotos_7453b3d93693421a83239e748042d8f2_CopyEdited" src="https://github.com/user-attachments/assets/1dbd57c1-ae6f-48b4-9624-9dfe1e9d94f3" />
+
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+<img width="1307" height="626" alt="AdobeExpressPhotos_50a9487ed65d4c58a088c1824e9d1666_CopyEdited" src="https://github.com/user-attachments/assets/7e9cb1bc-d7a0-418e-827d-86a7e8be875c" />
+
 
 ---
 
@@ -406,25 +409,25 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
+A function in Bash is a named block of code that performs a specific task. We can call the function whenever we need to execute that task in a script.
 
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions are useful because they help organize code into smaller, reusable sections. They reduce code repetition and make scripts easier to read, understand, test, and maintain.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created five functions: show_header(), show_user_info(), show_tools(), check_directory(), and show_footer(). Each function performs a specific task, such as displaying user information, listing DevOps tools, checking whether a directory exists, or displaying a completion message.
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The script uses variables to store user information, an array to store DevOps tool names, and a loop to display each tool. It uses an if-else conditional to check whether the test directory exists. The script also works with file and directory paths and uses functions to organize these tasks into separate sections. This demonstrates how different Bash scripting concepts can work together to automate tasks.
 
 ---
 
