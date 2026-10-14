@@ -219,13 +219,15 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+<img width="1562" height="1944" alt="AdobeExpressPhotos_7dc88c118bd547b6bb68412f9710856d_CopyEdited" src="https://github.com/user-attachments/assets/30e44c34-12b4-4b7b-a5f2-62421a8a2e96" />
+
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="1357" height="188" alt="AdobeExpressPhotos_2de4114ecf4d45eca5c4b799b91d1e34_CopyEdited" src="https://github.com/user-attachments/assets/5853e6b0-538c-484a-90bc-010c14c16d3d" />
+
 
 ---
 
@@ -235,25 +237,25 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status of my healthy baseline is healthy when all five checks pass without warnings or incidents. The script checks Nginx, port 80, the HTTP response, disk usage, and memory usage.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The systemctl is-active nginx command returns active, and ss -ltn shows port 80 in the LISTEN state. Also, curl -I --max-time 5 http://localhost returns HTTP 200 OK, confirming that the application responds successfully to a local HTTP request.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+My script returned exit code 2 in the captured output because it incorrectly detected an incident in the port 80 check. Although port 80 was listening, the script reported that no listening socket was detected. Exit code 0 indicates all checks passed, while exit code 1 indicates warnings without incidents. After fixing the port check, I should run the script again to verify the correct exit code.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning indicates a potential issue that needs attention, such as resource usage exceeding the configured warning threshold. A failure or incident indicates a check did not meet its required condition, such as a service being inactive or a required port not listening. The script uses exit code 1 for warnings and exit code 2 when an incident is detected.
 
 ---
 
