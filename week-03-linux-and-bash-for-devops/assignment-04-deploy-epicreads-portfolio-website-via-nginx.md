@@ -93,7 +93,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="3792" height="2172" alt="image" src="https://github.com/user-attachments/assets/dd40f521-8f05-4c4b-8fa3-b10a197bf0e6" />
+
 
 ---
 
@@ -107,13 +108,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="3246" height="154" alt="AdobeExpressPhotos_b47edb8e3b6f4c2fa1f7c546f22e8321_CopyEdited" src="https://github.com/user-attachments/assets/a0ea0f61-d4f8-4925-8054-ac70f995915f" />
+
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="3207" height="443" alt="AdobeExpressPhotos_c83b05a4dc4140f28464f42f0b24c9cc_CopyEdited" src="https://github.com/user-attachments/assets/82b311ad-686b-4e87-b8ab-cbdcc844e9e7" />
+
 
 ---
 
