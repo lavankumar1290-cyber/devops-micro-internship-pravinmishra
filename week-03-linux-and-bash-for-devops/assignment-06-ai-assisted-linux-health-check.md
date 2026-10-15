@@ -318,19 +318,22 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-Add your screenshot here.
+<img width="2456" height="306" alt="AdobeExpressPhotos_d3b593fe84d74a01a5784542eb641627_CopyEdited" src="https://github.com/user-attachments/assets/8e9f560c-c98d-4fee-aa59-c53386bdc211" />
+
 
 ---
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="2714" height="1845" alt="AdobeExpressPhotos_b41b0ef4b19a4219873abc8cd79429b8_CopyEdited" src="https://github.com/user-attachments/assets/0db2c432-1599-473f-ba0f-d4e165c4f5ab" />
+
 
 ---
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-Add your screenshot here.
+<img width="2709" height="2167" alt="AdobeExpressPhotos_f5b5bb32a6924a779aa513a044a9bda7_CopyEdited" src="https://github.com/user-attachments/assets/60c7c673-ea2d-4533-a0d8-d1f51879a31e" />
+
 
 ---
 
@@ -340,31 +343,31 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The three checks were the Nginx service status check, the attempt to stop the Nginx service, and the HTTP connectivity check. Initially, Nginx remained active because the stop command failed.
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The evidence includes the Nginx service showing an inactive state and the curl command failing to connect to localhost on port 80. Together, these results indicate that the local web server is unavailable.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No, Claude only suggested the recovery command and did not execute it. This is important because the skill must diagnose the problem without making unauthorized changes to the system.
 
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Bash report represents the Observation phase because Bash collects system information, checks the Nginx status, and records the results as evidence.
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Reasoning phase because Claude analyzes the collected evidence, identifies the likely cause, and suggests a possible recovery command without executing it.
 
 ---
 
@@ -378,25 +381,30 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-Add your screenshot here.
+<img width="2456" height="1926" alt="AdobeExpressPhotos_e6dd7c5da06c43269d10f20b911ed03f_CopyEdited" src="https://github.com/user-attachments/assets/68ff7b23-9614-4c3b-8b8e-613a41be1288" />
+
 
 ---
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-Add your screenshot here.
+<img width="2377" height="1743" alt="AdobeExpressPhotos_9a168d9b024146c4b196891f3abf44c1_CopyEdited" src="https://github.com/user-attachments/assets/95bd13da-ecc2-41af-b0c3-1950d465fded" />
+
 
 ---
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="2404" height="468" alt="AdobeExpressPhotos_d00b3da98da64126bbc8a1bd98c4fcc1_CopyEdited" src="https://github.com/user-attachments/assets/273858c7-d348-4491-86fd-aa136f548b82" />
+
 
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="2620" height="2183" alt="AdobeExpressPhotos_ecd75a8670da4aa5adbb4ce30794e10c_CopyEdited" src="https://github.com/user-attachments/assets/ee428e7c-a8ab-4b3d-8ee5-5f353c73c1dd" />
+
+
 
 ---
 
@@ -406,31 +414,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually restarted the Nginx service using the command sudo systemctl start nginx to recover the web server after the simulated incident.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The command systemctl is-active nginx returned active, and curl -I http://localhost returned HTTP/1.1 200 OK. These results confirm that Nginx was running and responding to HTTP requests.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run verifies that the recovery was successful and checks whether any failures remain. It provides fresh evidence that the service is healthy after the recovery action.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+An AI agent might restart a service unnecessarily, interrupt important operations, cause data loss, or hide the actual problem. Therefore, recovery actions should require proper checks and human approval when necessary.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot mainly responds to questions, whereas an AI agentic workflow uses tools such as Bash to collect evidence, analyses the results, and recommends actions within defined permissions.
 
 ---
 
