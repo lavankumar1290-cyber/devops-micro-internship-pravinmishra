@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed |✅ solved| https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-share-7505877795395338240-5UGh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk | https://medium.com/@dasarilavan888/week-00-of-my-devops-micro-internship-journey-266fe5282e89?sharedUserId=dasarilavan888|
 | 01 | Success Mindset |✅ Completed  |✅ Solved  |https://www.linkedin.com/posts/lavan-kumar-aa2724307_dmibypravinmishra-agenticai-devops-activity-7505918682817101824-sbX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk|https://medium.com/@dasarilavan888/week-01-success-mindset-devops-micro-internship-dmi-895bed4a3a76 |
 | 02 | Agentic AI with Claude Code | ✅ Completed |✅ solved | https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-agenticai-claudecode-share-7512191881825677312-bd8f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk |https://medium.com/@dasarilavan888/reflection-week-2-aa3693490ad9?sharedUserId=dasarilavan888|
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-agenticai-linux-share-7516428759927779328-9KU-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
