@@ -534,7 +534,7 @@ https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-agenticai-linux-shar
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/assignment-06-ai-assisted-linux-health-check.md
 
 ---
 
