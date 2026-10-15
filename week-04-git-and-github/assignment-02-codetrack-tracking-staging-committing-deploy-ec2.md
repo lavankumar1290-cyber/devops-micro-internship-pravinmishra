@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+<img width="2577" height="142" alt="AdobeExpressPhotos_4323bc7d0d4241ae8c5a0861f2a6241d_CopyEdited" src="https://github.com/user-attachments/assets/efd4b62b-3e91-4953-9d1c-7da8700341f0" />
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+<img width="2415" height="405" alt="AdobeExpressPhotos_25a959cab3be408da77c62551f0fb3de_CopyEdited" src="https://github.com/user-attachments/assets/8540f941-2601-496c-903e-2460a5341609" />
 
 ---
 
@@ -40,7 +40,8 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="2579" height="409" alt="AdobeExpressPhotos_5d62767e98e44e44bfc8fdf4eaf67c1b_CopyEdited" src="https://github.com/user-attachments/assets/2bc0a561-a131-4209-afc4-963d3bd74082" />
+
 
 ---
 
@@ -54,7 +55,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="3818" height="1619" alt="AdobeExpressPhotos_4941f22aaa7a478daaa129d4b33b5c31_CopyEdited" src="https://github.com/user-attachments/assets/30e5907b-6c1b-4ded-9c2c-c4d6dbca7488" />
+
 
 ---
 
@@ -68,13 +70,14 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+<img width="2164" height="604" alt="AdobeExpressPhotos_193a0b7fb8664231abe7dc43db17f998_CopyEdited" src="https://github.com/user-attachments/assets/27a7ef9b-b52d-4467-b1c2-221e27f16596" />
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+<img width="2178" height="761" alt="AdobeExpressPhotos_0bbb8fbe8b7540b3b3c17669abe489d5_CopyEdited" src="https://github.com/user-attachments/assets/6a77aae3-db64-460b-b897-273576787fec" />
+
 
 ---
 
@@ -88,13 +91,15 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+<img width="2609" height="681" alt="AdobeExpressPhotos_c15005eb1ac44f2eb3976c605ee50477_CopyEdited" src="https://github.com/user-attachments/assets/99680887-78a0-48ac-b742-15f9b8a4677f" />
+
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+<img width="2610" height="262" alt="AdobeExpressPhotos_fc1e3ef17a3c496e9c8751110f9eaa5f_CopyEdited" src="https://github.com/user-attachments/assets/2d28f8b2-8a9b-4e98-9e6f-28750784d0da" />
+
 
 ---
 
@@ -108,25 +113,29 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+<img width="3818" height="2363" alt="AdobeExpressPhotos_c1836d72ebbc449b8dda9a7bdf2c5ea7_CopyEdited" src="https://github.com/user-attachments/assets/a18844d4-ed3b-4261-9007-fddbb231cef7" />
+
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="2408" height="276" alt="AdobeExpressPhotos_bc1fa7b99d854ea7b9118c42c7fc91ed_CopyEdited" src="https://github.com/user-attachments/assets/0158fe76-61e5-4bd6-baea-ea2398523933" />
+
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+<img width="2469" height="276" alt="AdobeExpressPhotos_93d96bf13cac4151aa6b591c10694b1a_CopyEdited" src="https://github.com/user-attachments/assets/71e70bc6-8371-4523-987c-814609c180a1" />
+
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="2444" height="287" alt="AdobeExpressPhotos_c808c0eec2ad4cc5a2c4132138a0f7e8_CopyEdited" src="https://github.com/user-attachments/assets/11b30cfb-9ec0-46d9-a255-a35d229ed608" />
+
 
 ---
 
@@ -140,19 +149,21 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+<img width="2399" height="1280" alt="AdobeExpressPhotos_0068ee1b8fe14b29b8148cdf41b57eae_CopyEdited" src="https://github.com/user-attachments/assets/a474900f-bf61-42ac-8695-e563f48211b9" />
+
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+<img width="2392" height="506" alt="AdobeExpressPhotos_f34159a78ec04256abd61475916b2415_CopyEdited" src="https://github.com/user-attachments/assets/aae91cd9-787a-4a73-9587-4e67828df142" />
+
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+<img width="1660" height="947" alt="image" src="https://github.com/user-attachments/assets/d3b1be6b-e4d6-41ae-a200-46e05da13615" />
 
 ---
 
@@ -185,14 +196,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
-- [ ] `index.html` and `style.css` created and populated (Screenshots 3–4)
-- [ ] Starter files staged and committed in the first commit (Screenshots 5–8)
-- [ ] Student Name and Group Name updated in `index.html` (Screenshot 9)
-- [ ] Second controlled commit created (Screenshots 10–12)
-- [ ] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [✅] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
+- [✅] `index.html` and `style.css` created and populated (Screenshots 3–4)
+- [✅] Starter files staged and committed in the first commit (Screenshots 5–8)
+- [✅] Student Name and Group Name updated in `index.html` (Screenshot 9)
+- [✅] Second controlled commit created (Screenshots 10–12)
+- [✅] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
+- [✅] LinkedIn post published and URL submitted
+- [✅] No sensitive data exposed
 
 ---
 
