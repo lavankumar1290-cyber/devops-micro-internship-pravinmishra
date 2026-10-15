@@ -446,51 +446,68 @@ A chatbot mainly responds to questions, whereas an AI agentic workflow uses tool
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Dasari Lavan Kumar
 
-**Date:** DD/MM/YYYY
+**Date:** 15/10/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The Nginx web server became unavailable during the simulated incident. HTTP requests to localhost failed because the service was stopped. The goal was to diagnose the problem, recover the service manually, and verify that it was working again.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+Bash was used to collect evidence about the Nginx service and HTTP connectivity.
+
+systemctl is-active nginx showed inactive after the service was stopped.
+systemctl status nginx --no-pager showed that Nginx was inactive.
+curl -I http://localhost failed to connect while the service was stopped.
+After recovery, the service status was checked again and the HTTP request was repeated.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The most likely cause of the simulated incident was that the Nginx service had been stopped. As a result, the local web server could not respond to HTTP requests. The collected evidence helped identify the service state as the cause of the outage.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the diagnosis, I manually started Nginx using the following command:
+
+sudo systemctl start nginx
+
+The AI skill suggested the recovery command but did not execute it. I performed the recovery as the human operator.
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+systemctl is-active nginx
+
+The expected output was active.
+
+I then checked HTTP connectivity using:
+
+curl -I http://localhost
+
+The expected response was HTTP/1.1 200 OK. These results indicate that Nginx had recovered and was responding to HTTP requests.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI skill was allowed to collect evidence, analyse the results, identify the likely cause, and recommend a recovery command. It was not allowed to execute the recovery action. Keeping the recovery under human control helped prevent unintended changes and ensured that the action was reviewed before execution.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The Bash commands represented the Observation phase by collecting evidence about the service and HTTP response. Claude's analysis represented the Reasoning phase by interpreting the evidence and identifying the likely cause. The suggested recovery command represented the Planning phase. I performed the recovery manually, and the second triage run represented Verification, confirming whether the service had returned to a healthy state.
 
 ---
 
