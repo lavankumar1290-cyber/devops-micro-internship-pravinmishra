@@ -20,13 +20,15 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+<img width="2433" height="1151" alt="AdobeExpressPhotos_eba3aa38b62c4fa998ee9116a10621c2_CopyEdited" src="https://github.com/user-attachments/assets/566c2d9a-593d-428d-a2ca-c3342a39744f" />
+
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+<img width="2449" height="249" alt="AdobeExpressPhotos_d90683742ae24178a97939f6dcb34851_CopyEdited" src="https://github.com/user-attachments/assets/6ac2aae7-026a-4c0e-a009-faf145f10bb4" />
+
 
 ---
 
@@ -34,7 +36,7 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden directory created when we run the git init command. It stores important information about the Git repository, including commit history, configuration, branches, and other data required for version control. It matters because Git uses this folder to track changes and manage different versions of our project.
 
 ---
 
@@ -48,7 +50,8 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+<img width="2487" height="528" alt="AdobeExpressPhotos_1cdc0ab1611845729c839953a75ca5c0_CopyEdited" src="https://github.com/user-attachments/assets/ffd3ff27-be89-4f89-b07e-d50a586d8ab9" />
+
 
 ---
 
@@ -62,7 +65,8 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+<img width="2445" height="379" alt="AdobeExpressPhotos_99f6cc2b47df44e48b74748cf3ac5cd0_CopyEdited" src="https://github.com/user-attachments/assets/774c07be-28a7-4417-a167-e28a6904b93a" />
+
 
 ---
 
@@ -76,11 +80,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
-- [ ] Explanation of the `.git` folder written in your own words
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] No sensitive data exposed
+- [✅] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
+- [✅] Explanation of the `.git` folder written in your own words
+- [✅] Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- [✅] Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- [✅] No sensitive data exposed
 
 ---
 
