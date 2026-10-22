@@ -20,13 +20,16 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+<img width="3808" height="2255" alt="AdobeExpressPhotos_3a557cb051314632a15c65b1e73e0df7_CopyEdited" src="https://github.com/user-attachments/assets/f25ac02f-317f-470d-aaea-00bd25ebe991" />
+
+
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
+<img width="3818" height="2375" alt="AdobeExpressPhotos_7898de3011f54e41afe85f004f51e601_CopyEdited" src="https://github.com/user-attachments/assets/d2a143a9-5170-4d86-8248-66497ccb8721" />
+
 
 ---
 
@@ -40,19 +43,21 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+<img width="3818" height="2018" alt="AdobeExpressPhotos_a9ede70001f54d13a37ebc10d9ed5abc_CopyEdited" src="https://github.com/user-attachments/assets/27194ab8-61bd-4610-8b00-c48d52f539c7" />
+
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+<img width="3810" height="2275" alt="AdobeExpressPhotos_7b2bff2382df40c099573ea0608d30a5_CopyEdited" src="https://github.com/user-attachments/assets/591efeaf-e5e3-4315-8cf6-48b978d11441" />
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+<img width="3810" height="2275" alt="AdobeExpressPhotos_7b2bff2382df40c099573ea0608d30a5_CopyEdited" src="https://github.com/user-attachments/assets/6b5b54f7-e74c-4047-90fb-e8028db5d2f5" />
+
 
 ---
 
@@ -66,7 +71,9 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-Add your screenshot here.
+<img width="3806" height="2167" alt="AdobeExpressPhotos_1f118b2981b04939a9060b1b1e463bf2_CopyEdited" src="https://github.com/user-attachments/assets/e5b1138c-658c-4fc2-980d-00c0be8db3ee" />
+
+
 
 ---
 
@@ -82,19 +89,19 @@ Add your screenshot here.
 
 Paste your GitHub profile URL here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub account created or existing account confirmed (Screenshot 1)
-- [ ] Trending repositories explored (Screenshot 3)
-- [ ] At least one repository starred (Screenshot 4)
-- [ ] At least one public repository forked (Screenshot 5)
-- [ ] Professional bio added to your GitHub profile (Screenshot 6)
-- [ ] GitHub profile URL included
-- [ ] No passwords, codes, or authentication secrets exposed
+- [✅] GitHub account created or existing account confirmed (Screenshot 1)
+- [✅] Trending repositories explored (Screenshot 3)
+- [✅] At least one repository starred (Screenshot 4)
+- [✅] At least one public repository forked (Screenshot 5)
+- [✅] Professional bio added to your GitHub profile (Screenshot 6)
+- [✅] GitHub profile URL included
+- [✅] No passwords, codes, or authentication secrets exposed
 
 ---
 
