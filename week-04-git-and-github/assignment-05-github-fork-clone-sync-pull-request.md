@@ -137,13 +137,14 @@ Paste your Pull Request URL here:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/lavan-kumar-aa2724307_devops-git-github-share-7520365658463825920-qDz3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE49RxoBGxFraCVYmiQyDbk76Ur65n4P1Kk
 
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+<img width="1821" height="2113" alt="AdobeExpressPhotos_11eb19b375f549d99780aa497eb35004_CopyEdited" src="https://github.com/user-attachments/assets/0ce86a50-8cd7-4152-9da2-09ac77d674fe" />
+
 
 ---
 
@@ -160,7 +161,7 @@ Add your screenshot here.
 
 Paste your fork URL here:
 
-`Add your URL here`
+https://github.com/lavankumar1290-cyber/devops-micro-internship-interviews
 
 ---
 
