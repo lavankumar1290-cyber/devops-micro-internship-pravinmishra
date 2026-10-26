@@ -125,7 +125,7 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 Paste your Pull Request URL here:
 
-pravinmishraaws/devops-micro-internship-interviews/pull/#500
+pravinmishraaws/devops-micro-internship-interviews#500
 
 ---
 
