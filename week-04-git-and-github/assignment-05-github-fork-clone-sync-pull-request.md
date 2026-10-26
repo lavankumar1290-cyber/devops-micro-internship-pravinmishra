@@ -109,7 +109,8 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+<img width="3752" height="808" alt="AdobeExpressPhotos_e8a73c476f164f698032c671c96ce089_CopyEdited" src="https://github.com/user-attachments/assets/f913068b-ffe0-453d-b0e8-9fc46fdd1a47" />
+
 
 ---
 
